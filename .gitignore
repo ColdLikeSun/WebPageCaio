@@ -2,3 +2,4 @@
 .Python
 venv/
 .idea/
+.pyc
